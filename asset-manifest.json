@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/highexperience/static/css/main.745e090e.chunk.css",
+    "main.js": "/highexperience/static/js/main.4ba60a94.chunk.js",
+    "main.js.map": "/highexperience/static/js/main.4ba60a94.chunk.js.map",
+    "runtime-main.js": "/highexperience/static/js/runtime-main.ab3a9db4.js",
+    "runtime-main.js.map": "/highexperience/static/js/runtime-main.ab3a9db4.js.map",
+    "static/js/2.cb4070a9.chunk.js": "/highexperience/static/js/2.cb4070a9.chunk.js",
+    "static/js/2.cb4070a9.chunk.js.map": "/highexperience/static/js/2.cb4070a9.chunk.js.map",
+    "index.html": "/highexperience/index.html",
+    "precache-manifest.510e9819e3fdc3d2bf31150eee79d6d7.js": "/highexperience/precache-manifest.510e9819e3fdc3d2bf31150eee79d6d7.js",
+    "service-worker.js": "/highexperience/service-worker.js",
+    "static/css/main.745e090e.chunk.css.map": "/highexperience/static/css/main.745e090e.chunk.css.map",
+    "static/media/index.css": "/highexperience/static/media/Nautilus.1ec7d8f0.otf",
+    "static/media/bg3.svg": "/highexperience/static/media/bg3.472e0368.svg",
+    "static/media/icon-1.svg": "/highexperience/static/media/icon-1.4b1e6d55.svg",
+    "static/media/icon-2.svg": "/highexperience/static/media/icon-2.3815bb8e.svg",
+    "static/media/icon-3.svg": "/highexperience/static/media/icon-3.7a131ae0.svg",
+    "static/media/icon-4.svg": "/highexperience/static/media/icon-4.d714f51a.svg",
+    "static/media/logo.svg": "/highexperience/static/media/logo.a5acf01d.svg",
+    "static/media/password-icon.svg": "/highexperience/static/media/password-icon.c0be706b.svg",
+    "static/media/user-icon3.svg": "/highexperience/static/media/user-icon3.a96cdf15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab3a9db4.js",
+    "static/js/2.cb4070a9.chunk.js",
+    "static/css/main.745e090e.chunk.css",
+    "static/js/main.4ba60a94.chunk.js"
+  ]
+}
