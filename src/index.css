@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "franklinFont";
+    src: url('assets/fonts/FRAHV.TTF') format('ttf');
+}
+
+@font-face {
+    font-family: "nautilus";
+    src: url('assets/fonts/Nautilus.otf') format('otf');
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: "Dosis", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+p, h1, h2 {
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
+input, textarea, button {
+    border: none;
+    outline: none;
+}
+
+/* textarea, input, button, select { font-family: Arial; font-size: inherit; } */
+
+button {
+    text-transform: uppercase;
+}
+
+button:focus { outline: none; }
+
+:root {
+    --pink: #BB8FD8;
+    --blue: #A2A7F4;
+    --dark-blue: #868bd5;
+    --dark-pink: #9b74ba;
+}
+
+/* @media only screen and (max-width: 1280px) {
+    body {
+        background-size: 60%;
+    }
+} */

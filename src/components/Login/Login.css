@@ -1,0 +1,77 @@
+.form-cnt {
+    width: 600px;
+    padding: 2em 0;
+}
+
+.login input { 
+    padding: .75em;
+    border-bottom: 2px solid #999;
+    padding-left: 50px;
+    font-size: 1.01em;
+    box-sizing: border-box;
+}
+
+.inputs-width {
+    width: 400px;
+}
+
+.input-mrgn-bottom {
+    margin-bottom: 1em;
+}
+
+.login {
+    padding: 2em;
+    /* width: 45%; */
+}
+
+.login h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.login label {
+    margin-bottom: 5px;
+}
+
+.input-cnt {
+    margin-bottom: .75em;
+}
+
+.input-cnt > img {
+    position: absolute;
+    top: 30px;
+    left: 5px;
+    width: 25px;
+}
+
+.login button {
+    padding: .8em;
+    margin-top: 2.5em;
+}
+
+.login .forgot {
+    text-align: right;
+}
+
+.login .forgot a {
+    color: #666;
+    font-size: .9em;
+}
+
+.login .forgot a:hover {
+    color: #000;
+}
+
+/* #input-container {
+    position: relative;
+  }
+  
+  #input-container > img {
+    position: absolute;
+    top: 12px;
+    left: 15px;
+  }
+  
+  #input-container > input {
+    padding-left: 40px;
+  } */
