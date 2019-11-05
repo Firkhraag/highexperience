@@ -1,30 +1,36 @@
 {
   "files": {
-    "main.css": "/highexperience/static/css/main.c89054ea.chunk.css",
-    "main.js": "/highexperience/static/js/main.ec1a3754.chunk.js",
-    "main.js.map": "/highexperience/static/js/main.ec1a3754.chunk.js.map",
+    "main.css": "/highexperience/static/css/main.521debd8.chunk.css",
+    "main.js": "/highexperience/static/js/main.c663dcb7.chunk.js",
+    "main.js.map": "/highexperience/static/js/main.c663dcb7.chunk.js.map",
     "runtime-main.js": "/highexperience/static/js/runtime-main.ab3a9db4.js",
     "runtime-main.js.map": "/highexperience/static/js/runtime-main.ab3a9db4.js.map",
-    "static/js/2.8ed69f65.chunk.js": "/highexperience/static/js/2.8ed69f65.chunk.js",
-    "static/js/2.8ed69f65.chunk.js.map": "/highexperience/static/js/2.8ed69f65.chunk.js.map",
+    "static/js/2.fb473918.chunk.js": "/highexperience/static/js/2.fb473918.chunk.js",
+    "static/js/2.fb473918.chunk.js.map": "/highexperience/static/js/2.fb473918.chunk.js.map",
     "index.html": "/highexperience/index.html",
-    "precache-manifest.3af722fce3d1a0d92e9a3afed53e5343.js": "/highexperience/precache-manifest.3af722fce3d1a0d92e9a3afed53e5343.js",
+    "precache-manifest.a8f32fb5c231ff6d10a02a71ca0721b8.js": "/highexperience/precache-manifest.a8f32fb5c231ff6d10a02a71ca0721b8.js",
     "service-worker.js": "/highexperience/service-worker.js",
-    "static/css/main.c89054ea.chunk.css.map": "/highexperience/static/css/main.c89054ea.chunk.css.map",
+    "static/css/main.521debd8.chunk.css.map": "/highexperience/static/css/main.521debd8.chunk.css.map",
     "static/media/index.css": "/highexperience/static/media/Nautilus.1ec7d8f0.otf",
+    "static/media/award.svg": "/highexperience/static/media/award.483cb62a.svg",
     "static/media/bg3.svg": "/highexperience/static/media/bg3.472e0368.svg",
+    "static/media/courses.svg": "/highexperience/static/media/courses.2e5f88a0.svg",
+    "static/media/exit.svg": "/highexperience/static/media/exit.db0c664a.svg",
     "static/media/icon-1.svg": "/highexperience/static/media/icon-1.4b1e6d55.svg",
     "static/media/icon-2.svg": "/highexperience/static/media/icon-2.3815bb8e.svg",
     "static/media/icon-3.svg": "/highexperience/static/media/icon-3.7a131ae0.svg",
     "static/media/icon-4.svg": "/highexperience/static/media/icon-4.d714f51a.svg",
     "static/media/logo.svg": "/highexperience/static/media/logo.a5acf01d.svg",
     "static/media/password-icon.svg": "/highexperience/static/media/password-icon.c0be706b.svg",
+    "static/media/recommend.svg": "/highexperience/static/media/recommend.6cde84a2.svg",
+    "static/media/refresh.svg": "/highexperience/static/media/refresh.402694aa.svg",
+    "static/media/settings.svg": "/highexperience/static/media/settings.152b5cd6.svg",
     "static/media/user-icon3.svg": "/highexperience/static/media/user-icon3.a96cdf15.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ab3a9db4.js",
-    "static/js/2.8ed69f65.chunk.js",
-    "static/css/main.c89054ea.chunk.css",
-    "static/js/main.ec1a3754.chunk.js"
+    "static/js/2.fb473918.chunk.js",
+    "static/css/main.521debd8.chunk.css",
+    "static/js/main.c663dcb7.chunk.js"
   ]
 }
